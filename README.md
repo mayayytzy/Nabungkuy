@@ -30,10 +30,10 @@
 
 ### 1. Clone repository
 ```bash
-git clone https://github.com/username/Nabungkuy.git
+git clone https://github.com/mayayytzy/Nabungkuy.git
 cd Nabungkuy
 
-## Cara Install & Jalankan 
+
 Fahriansyah Nur Fajar : Leader
 Afgan
 Raditya Pratama
