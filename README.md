@@ -12,7 +12,7 @@
 - SweetAlert2 untuk semua notifikasi
 - Loading skeleton & animasi halus
 - 100% responsif (mobile friendly)
-- Format rupiah akurat (tidak ada bug 49.999.999)
+- Format rupiah akurat 
 
 ## Tech Stack
 
