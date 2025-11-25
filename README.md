@@ -29,12 +29,11 @@
 
 ## Anggota Kelompok
 
-| Nama                     | 
-|--------------------------|
-| **Fahriansyah Nur Fajar** |**Project Leader**|
-| **Afgan**                
-| **Raditya Pratama**     
-| **Wira**                 
+ Nama                     
+ **Fahriansyah Nur Fajar** **Project Leader**
+ **Afgan**                
+ **Raditya Pratama**     
+ **Wira**                 
 
 
 
