@@ -29,13 +29,13 @@
 
 ## Anggota Kelompok
 
-                      
- **Fahriansyah Nur Fajar** **Project Leader**
-  **Afgan**                
-  **Raditya Pratama**     
-  **Wira**                 
+**Leader**  
+**Fahriansyah Nur Fajar**
 
-
+**Anggota**  
+- Afgan  
+- Raditya Pratama  
+- Wira
 
 ## Cara Install & Jalankan (Lokal)
 
@@ -44,11 +44,12 @@
 git clone https://github.com/mayayytzy/Nabungkuy.git
 cd Nabungkuy
 
-# 2. Install/jalankan backend
+# 2. Backend
 cd backend
 npm run dev
+# → http://localhost:5000
 
-# 3. Install/jalankan frontend (terminal baru)
+# 3. Frontend (terminal baru)
 cd frontend
 npm run dev
 # → http://localhost:5173
