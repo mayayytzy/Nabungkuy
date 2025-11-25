@@ -29,18 +29,14 @@
 
 ## Anggota Kelompok
 
-<div align="center">
-
 | Nama                     | 
 |--------------------------|
-| **Fahriansyah Nur Fajar** | **Project Leader**           |
+| **Fahriansyah Nur Fajar** |**Project Leader**|
 | **Afgan**                
 | **Raditya Pratama**     
 | **Wira**                 
 
-</div>
 
-<br>
 
 ## Cara Install & Jalankan (Lokal)
 
