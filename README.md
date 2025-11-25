@@ -33,7 +33,7 @@
 git clone https://github.com/username/Nabungkuy.git
 cd Nabungkuy
 
-Anggota Kelompok
+## Cara Install & Jalankan 
 Fahriansyah Nur Fajar : Leader
 Afgan
 Raditya Pratama
