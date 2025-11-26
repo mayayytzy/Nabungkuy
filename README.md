@@ -37,7 +37,7 @@
 - Raditya Pratama  
 - Wira
 
-## Cara Install & Jalankan (Lokal)
+## Cara Install & Jalankan 
 
 ```bash
 # 1. Clone repository
